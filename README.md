@@ -1,7 +1,7 @@
 <head>
 <style> 
 body {
-  background-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpaperaccess.com%2F8k-vaporwave&psig=AOvVaw2hySaPphgio2o1y20S6yhf&ust=1665962966495000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCOjVtOmx4_oCFQAAAAAdAAAAABAn");
+  background-image: url("https://c4.wallpaperflare.com/wallpaper/500/442/354/outrun-vaporwave-hd-wallpaper-preview.jpg");
 }
 </style>
 </head>
@@ -11,4 +11,5 @@ body {
 <a href="mountainchickens.html"><br>Mountain Chicken</a>
 <br>
 <b> THANKS FOR LOOKING AT MY WEBSITE
+  
 
