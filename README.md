@@ -1,7 +1,7 @@
 <head>
 <style> 
 body {
-  background-image: url("https://c4.wallpaperflare.com/wallpaper/500/442/354/outrun-vaporwave-hd-wallpaper-preview.jpg");
+  background-image: url("https://img.freepik.com/free-photo/river-surrounded-by-forests-cloudy-sky-thuringia-germany_181624-30863.jpg?w=1380&t=st=1668456497~exp=1668457097~hmac=af34558ba00d245850c6ecc10f8c515247fd06aa82347f253e5a9bb8d4771b1b");
 }
 </style>
 </head>
